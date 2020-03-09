@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 09 Mar 2020 15:42:56 at http://emupedia.net/beta/emuos +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://emupedia.net/beta/emuos -O1 "C:\My Web Sites\bruh moment" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:43:09	Error: 	"Not Found" (404) at link https://emupedia.net/emupedia-resources/logos/emupedia-logo-58.png (from https://emupedia.net/beta/emuos/)
+15:43:09	Error: 	"Not Found" (404) at link https://emupedia.net/emupedia-resources/logos/emupedia/-logo-114.png (from https://emupedia.net/beta/emuos/)
+15:43:17	Error: 	"Not Found" (404) at link https://emupedia.net/beta/emuos/css/libraries/font/context-menu-icons.eot?36hmp (from https://emupedia.net/beta/emuos/css/libraries/jquery.contextMenu.css)
+15:43:17	Error: 	"Not Found" (404) at link https://emupedia.net/beta/emuos/css/libraries/font/context-menu-icons.woff2?36hmp (from https://emupedia.net/beta/emuos/css/libraries/jquery.contextMenu.css)
+15:43:17	Error: 	"Not Found" (404) at link https://emupedia.net/beta/emuos/css/libraries/font/context-menu-icons.woff?36hmp (from https://emupedia.net/beta/emuos/css/libraries/jquery.contextMenu.css)
+15:43:17	Error: 	"Not Found" (404) at link https://emupedia.net/beta/emuos/css/libraries/font/context-menu-icons.ttf?36hmp (from https://emupedia.net/beta/emuos/css/libraries/jquery.contextMenu.css)
+15:43:17	Error: 	"Not Found" (404) at link https://emupedia.net/beta/emuos/css/themes/win3x/emupedia-resources/icons/win31/up.png (from https://emupedia.net/beta/emuos/css/themes/win3x/scrollbar.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 22 seconds : 81 links scanned, 73 files written (1639249 bytes overall) [1331746 bytes received at 60533 bytes/sec], 626686 bytes transferred using HTTP compression in 48 files, ratio 26%, 27.6 requests per connection
+(7 errors, 0 warnings, 0 messages)

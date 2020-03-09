@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.emupedia.net	TRUE	/	FALSE	1999999999	__cfduid	da064848708f9b5c33cff42dd0b224e9a1583783001
+emupedia.net	TRUE	/	FALSE	1999999999	SameSite	Lax
+
